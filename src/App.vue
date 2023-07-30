@@ -10,6 +10,12 @@ import Home from './components/views/Home.vue';
     </main>
 </template>
 
-<style scoped>
+<style>
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 </style>
